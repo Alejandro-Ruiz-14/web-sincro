@@ -1,0 +1,23 @@
+/*LISTA  ICONOS*/
+ul{
+    list-style: none;
+}
+.carousel-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.carousel {
+    width: 70%;
+    margin-left: 15%;
+}
+.iconos{
+    font-size: 2em;
+    margin: 10px;
+}
+.fondopag{
+    background-color: #b6aca4;
+}
